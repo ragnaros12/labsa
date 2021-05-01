@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javassist-3.26.0-GA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/libs/javassist-3.26.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/reflections-0.9.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/simple-xml-2.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
